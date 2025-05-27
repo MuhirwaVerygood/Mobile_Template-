@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "angele@example.com",
+      "password": "123456",
+      "firstName": "Angele",
+      "lastName": "Marie",
+      "location": "Kigali, Rwanda",
+      "role": "user",
+      "avatarUrl": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671116.jpg"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1",
+      "name": "Ms. Tracey Hessel",
+      "location": "Jaren Island",
+      "Date": "2026-04-14T20:42:06.110Z",
+      "status": "status 1",
+      "Price": 37,
+      "Duration": "Duration 1",
+      "EntryTime": 1748269407,
+      "ExitTime": 1748269407
+    }
+  ],
+  "parking": [
+    {
+      "id": "1",
+      "name": "Davis LLC",
+      "Price": 45,
+      "parkingImage": "parkingImage 1",
+      "availabeSpaces": 93
+    }
+  ]
+}
